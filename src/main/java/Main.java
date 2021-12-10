@@ -10,6 +10,7 @@ public class Main {
 
         RunWithDrawals makeWithdrawal = new RunWithDrawals();
         makeWithdrawal.runWithDrawals(billType, billTypeQuantity, withdrawalAmount);
+
     }
 
 }
