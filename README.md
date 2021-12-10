@@ -1,5 +1,4 @@
 # RedMindBackEndAssignment
-# RedMindBackEndAssignment
 Instructions on how to run the application:
 Local IDE:
 -Clone the project and run it on your local IDE.
